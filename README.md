@@ -2,7 +2,7 @@
 A repo dedicated to standard solutions to fundamental competitive programming paradigms.
 
 ## Data Structures
-- [ ] Disjoint Union Find
+- [x] Disjoint Union Find
 - [ ] Fenwick Tree
 - [ ] Segment Tree
 
