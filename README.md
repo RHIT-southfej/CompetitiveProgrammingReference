@@ -24,8 +24,8 @@ A repo dedicated to standard solutions to fundamental competitive programming pa
 | Breadth-First Search | ✅ | ❌ |
 | Cycle Checking | ✅ | ❌ |
 | Depth-First Search | ✅ | ❌ |
-| Dijkstra's | ❌ | ❌ |
-| Floyd-Warshall | ❌ | ❌ |
+| Dijkstra's | ✅ | ❌ |
+| Floyd-Warshall | ✅ | ❌ |
 | Min-Cut / Max-flow | ❌ | ❌ |
 | Minimum Spanning Tree | ❌ | ❌ |
 | Strongly Connected Components | ❌ | ❌ |
