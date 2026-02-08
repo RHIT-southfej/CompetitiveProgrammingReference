@@ -2,49 +2,60 @@
 A repo dedicated to standard solutions to fundamental competitive programming paradigms.
 
 ## Data Structures
-- [x] Disjoint Union Find
-- [ ] Fenwick Tree
-- [ ] Segment Tree
+| Item | Full | Comp |
+|------|------|------|
+| Disjoint Union Find | [x] | [x] |
+| Fenwick Tree | [x] | [ ] |
+| Segment Tree | [x] | [ ] |
 
 ## Geometry
-- [ ] Area of Simple Polygon
-- [ ] Convex Hull
-- [ ] Intersection Points on Lines
-- [ ] Oriented Area of Triangles
-- [ ] Point in Polygon
-- [ ] Segment Intersection
-- [ ] Sweep Line
+| Item | Full | Comp |
+|------|------|------|
+| Area of Simple Polygon | [x] | [ ] |
+| Convex Hull | [x] | [ ] |
+| Intersection Points on Lines | [x] | [ ] |
+| Point in Polygon | [ ] | [ ] |
+| Segment Intersection | [x] | [ ] |
+| Sweep Line | [ ] | [ ] |
 
 ## Graphs
-- [ ] Bellman-Ford
-- [ ] Breadth-First Search
-- [ ] Cycle Checking
-- [ ] Depth-First Search
-- [ ] Dijksta's
-- [ ] Floyd-Warshall
-- [ ] Min-Cut / Max-flow
-- [ ] Minimum Spanning Tree
-- [ ] Strongly Connected Components
-- [ ] Topo Sort
+| Item | Full | Comp |
+|------|------|------|
+| Bellman-Ford | [ ] | [ ] |
+| Breadth-First Search | [ ] | [ ] |
+| Cycle Checking | [ ] | [ ] |
+| Depth-First Search | [ ] | [ ] |
+| Dijkstra's | [ ] | [ ] |
+| Floyd-Warshall | [ ] | [ ] |
+| Min-Cut / Max-flow | [ ] | [ ] |
+| Minimum Spanning Tree | [ ] | [ ] |
+| Strongly Connected Components | [ ] | [ ] |
+| Topo Sort | [ ] | [ ] |
 
 ## Mathematics
-- [ ] Chinese Remainer Theorem
-- [ ] Converting Bases
-- [ ] Euler's Totient Function
-- [ ] Extended Euclidean
-- [ ] Fast Exponentiation
-- [ ] Integer Factorization
-- [ ] Modular Inverse
-- [ ] Primality Testing
-- [ ] Sieve of Eratosthenes
+| Item | Full | Comp |
+|------|------|------|
+| Chinese Remainder Theorem | [ ] | [ ] |
+| Converting Bases | [ ] | [ ] |
+| Euler's Totient Function | [ ] | [ ] |
+| Extended Euclidean | [ ] | [ ] |
+| Fast Exponentiation | [ ] | [ ] |
+| Integer Factorization | [ ] | [ ] |
+| Modular Inverse | [ ] | [ ] |
+| Primality Testing | [ ] | [ ] |
+| Sieve of Eratosthenes | [ ] | [ ] |
+
+## Search
+| Item | Full | Comp |
+|------|------|------|
+| Binary Search | [ ] | [ ] |
+| Ternary Search | [ ] | [ ] |
 
 ## Strings
-- [ ] Binary Search
-- [ ] Ternary Search
-
-## Strings
-- [ ] Aho-Corasick
-- [ ] KMP String Matching
-- [ ] Rabin-Karp
-- [ ] Suffix Array
-- [ ] Suffix Tree
+| Item | Full | Comp |
+|------|------|------|
+| Aho-Corasick | [ ] | [ ] |
+| KMP String Matching | [ ] | [ ] |
+| Rabin-Karp | [ ] | [ ] |
+| Suffix Array | [ ] | [ ] |
+| Suffix Tree | [ ] | [ ] |
