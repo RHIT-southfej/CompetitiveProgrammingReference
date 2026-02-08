@@ -47,8 +47,8 @@ A repo dedicated to standard solutions to fundamental competitive programming pa
 ## Search
 | Item | Comp | Full |
 |------|------|------|
-| Binary Search | ❌ | ❌ |
-| Ternary Search | ❌ | ❌ |
+| Binary Search | ✅ | ❌ |
+| Ternary Search | ✅ | ❌ |
 
 ## Strings
 | Item | Comp | Full |
