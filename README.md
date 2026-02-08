@@ -21,9 +21,9 @@ A repo dedicated to standard solutions to fundamental competitive programming pa
 | Item | Comp | Full |
 |------|------|------|
 | Bellman-Ford | ✅ | ❌ |
-| Breadth-First Search | ❌ | ❌ |
-| Cycle Checking | ❌ | ❌ |
-| Depth-First Search | ❌ | ❌ |
+| Breadth-First Search | ✅ | ❌ |
+| Cycle Checking | ✅ | ❌ |
+| Depth-First Search | ✅ | ❌ |
 | Dijkstra's | ❌ | ❌ |
 | Floyd-Warshall | ❌ | ❌ |
 | Min-Cut / Max-flow | ❌ | ❌ |
