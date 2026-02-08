@@ -1,3 +1,6 @@
+# CompetitiveProgrammingReference
+A repo dedicated to standard solutions to fundamental competitive programming paradigms.
+
 ## Data Structures
 | Item | Full | Comp |
 |------|------|------|
@@ -27,3 +30,31 @@
 | Minimum Spanning Tree | ❌ | ❌ |
 | Strongly Connected Components | ❌ | ❌ |
 | Topo Sort | ❌ | ❌ |
+
+## Mathematics
+| Item | Full | Comp |
+|------|------|------|
+| Chinese Remainder Theorem | ❌ | ❌ |
+| Converting Bases | ❌ | ❌ |
+| Euler's Totient Function | ❌ | ❌ |
+| Extended Euclidean | ❌ | ❌ |
+| Fast Exponentiation | ❌ | ❌ |
+| Integer Factorization | ❌ | ❌ |
+| Modular Inverse | ❌ | ❌ |
+| Primality Testing | ❌ | ❌ |
+| Sieve of Eratosthenes | ❌ | ❌ |
+
+## Search
+| Item | Full | Comp |
+|------|------|------|
+| Binary Search | ❌ | ❌ |
+| Ternary Search | ❌ | ❌ |
+
+## Strings
+| Item | Full | Comp |
+|------|------|------|
+| Aho-Corasick | ❌ | ❌ |
+| KMP String Matching | ❌ | ❌ |
+| Rabin-Karp | ❌ | ❌ |
+| Suffix Array | ❌ | ❌ |
+| Suffix Tree | ❌ | ❌ |
