@@ -2,14 +2,14 @@
 A repo dedicated to standard solutions to fundamental competitive programming paradigms.
 
 ## Data Structures
-| Item | Full | Comp |
+| Item | Comp | Full |
 |------|------|------|
 | Disjoint Union Find | ✅ | ✅ |
 | Fenwick Tree | ✅ | ❌ |
 | Segment Tree | ✅ | ❌ |
 
 ## Geometry
-| Item | Full | Comp |
+| Item | Comp | Full |
 |------|------|------|
 | Area of Simple Polygon | ✅ | ❌ |
 | Convex Hull | ✅ | ❌ |
@@ -18,9 +18,9 @@ A repo dedicated to standard solutions to fundamental competitive programming pa
 | Sweep Line | ❌ | ❌ |
 
 ## Graphs
-| Item | Full | Comp |
+| Item | Comp | Full |
 |------|------|------|
-| Bellman-Ford | ❌ | ❌ |
+| Bellman-Ford | ✅ | ❌ |
 | Breadth-First Search | ❌ | ❌ |
 | Cycle Checking | ❌ | ❌ |
 | Depth-First Search | ❌ | ❌ |
@@ -32,7 +32,7 @@ A repo dedicated to standard solutions to fundamental competitive programming pa
 | Topo Sort | ❌ | ❌ |
 
 ## Mathematics
-| Item | Full | Comp |
+| Item | Comp | Full |
 |------|------|------|
 | Chinese Remainder Theorem | ❌ | ❌ |
 | Converting Bases | ❌ | ❌ |
@@ -45,13 +45,13 @@ A repo dedicated to standard solutions to fundamental competitive programming pa
 | Sieve of Eratosthenes | ❌ | ❌ |
 
 ## Search
-| Item | Full | Comp |
+| Item | Comp | Full |
 |------|------|------|
 | Binary Search | ❌ | ❌ |
 | Ternary Search | ❌ | ❌ |
 
 ## Strings
-| Item | Full | Comp |
+| Item | Comp | Full |
 |------|------|------|
 | Aho-Corasick | ❌ | ❌ |
 | KMP String Matching | ❌ | ❌ |
