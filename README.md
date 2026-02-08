@@ -35,14 +35,14 @@ A repo dedicated to standard solutions to fundamental competitive programming pa
 | Item | Comp | Full |
 |------|------|------|
 | Chinese Remainder Theorem | ❌ | ❌ |
-| Converting Bases | ❌ | ❌ |
+| Converting Bases | ✅ | ❌ |
 | Euler's Totient Function | ❌ | ❌ |
 | Extended Euclidean | ❌ | ❌ |
-| Fast Exponentiation | ❌ | ❌ |
+| Fast Exponentiation | ✅ | ❌ |
 | Integer Factorization | ❌ | ❌ |
-| Modular Inverse | ❌ | ❌ |
-| Primality Testing | ❌ | ❌ |
-| Sieve of Eratosthenes | ❌ | ❌ |
+| Modular Inverse | ✅ | ❌ |
+| Primality Testing | ✅ | ❌ |
+| Sieve of Eratosthenes | ✅ | ❌ |
 
 ## Search
 | Item | Comp | Full |
